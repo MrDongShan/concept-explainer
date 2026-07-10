@@ -1,0 +1,4 @@
+interface:
+  display_name: "Concept Explainer"
+  short_description: "Generate Obsidian-linked Markdown articles for concepts and terminology"
+  default_prompt: "Use $concept-explainer to explain what [X] is"
